@@ -1,3 +1,3 @@
 # CountUp
 
-![countupgif](assets/countupgif.gig "countupgif")
+![countupgif](assets/countupgif.gif "countupgif")
